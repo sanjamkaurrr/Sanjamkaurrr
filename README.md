@@ -10,8 +10,6 @@
 - 🔹 Building a strong foundation in **Artificial Intelligence & Machine Learning**  
 - 🔹 Experienced with **Python, SQL, and Web Development**  
 - 🔹 Strong teamwork, problem-solving, and communication skills  
-- 🔹 Passionate about **sports (tennis & cricket)**, which fuel my resilience and discipline  
-
 ---
 
 ## 🛠️ Tech Stack & Tools  
