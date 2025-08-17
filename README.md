@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 - 🔹 Building a strong foundation in **Artificial Intelligence & Machine Learning**  
 - 🔹 Experienced with **Python, SQL, and Web Development**  
 ---
